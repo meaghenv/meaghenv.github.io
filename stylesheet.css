@@ -48,6 +48,15 @@ hr {
    border: 3px solid #F1DEF3;
 }
 
+#welcomepage{
+    padding-bottom: 250px;
+}
+.aboutme{
+  padding-top: 50px;
+  background: #F1DEF3;
+  font-family: 'Jura', sans-serif;
+}
+
 
 ul {
   margin: 0;
